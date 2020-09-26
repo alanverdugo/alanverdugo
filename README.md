@@ -20,6 +20,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hollow Knight](/blog/hollow-knight)
+- [Books read in 2019](/blog/books-2019)
+- [Libros leídos en 2018](/blog/libros-2018)
+- [Optimizing your resume with LaTeX](/blog/resume-latex)
+- [Obtaining the Google Analytics Individual Qualification (GAIQ)](/blog/gaiq)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
