@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alan Verdugo</h1>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<!--
-**alanverdugo/alanverdugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanverdugo" alt="alanverdugo" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Gilbert](https://github.com/alanverdugo/gilbert)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **OpenShift, Spark**
+
+- 🤝 I’m looking for help with [Gilbert](https://github.com/alanverdugo/gilbert)
+
+- 📝 I regulary write articles on [http://kippel.net/](http://kippel.net/)
+
+- 💬 Ask me about **Linux, Python**
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanverdugo&show_icons=true" alt="alanverdugo" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/alanverdugo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alanverdugo" height="30" width="30" /></a>
+<a href="/http://kippel.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://kippel.net/" height="30" width="30" /></a>
+</p>
