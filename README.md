@@ -24,5 +24,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/alanverdugo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alanverdugo" height="30" width="30" /></a>
-<a href="/http://kippel.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://kippel.net/" height="30" width="30" /></a>
+<a href="http://kippel.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://kippel.net/" height="30" width="30" /></a>
 </p>
