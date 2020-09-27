@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Verdugo</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate software developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanverdugo" alt="alanverdugo" /> </p>
 
