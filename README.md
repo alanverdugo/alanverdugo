@@ -58,11 +58,11 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Books read in 2020](http://kippel.net/blog/zelda-botw)
 - [Hollow Knight](http://kippel.net/blog/hollow-knight)
 - [Books read in 2019](http://kippel.net/blog/books-2019)
 - [Libros leídos en 2018](http://kippel.net/blog/libros-2018)
 - [Optimizing your resume with LaTeX](http://kippel.net/blog/resume-latex)
-- [Obtaining the Google Analytics Individual Qualification (GAIQ)](http://kippel.net/blog/gaiq)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
