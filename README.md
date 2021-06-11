@@ -58,11 +58,11 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing timelessness](http://kippel.net/blog/embracing-timelessness)
 - [The Legend of Zelda - Breath of the Wild](http://kippel.net/blog/zelda-botw)
 - [Books read in 2020](http://kippel.net/blog/books-2020)
 - [Hollow Knight](http://kippel.net/blog/hollow-knight)
 - [Books read in 2019](http://kippel.net/blog/books-2019)
-- [Libros leídos en 2018](http://kippel.net/blog/libros-2018)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
