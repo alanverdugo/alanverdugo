@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [Gilbert](https://github.com/alanverdugo/gilbert), a free and open source educational mobile application.
 
-- 🌱 I'm currently learning about **OpenShift, Spark and world history**
+- 🌱 I'm currently learning about **JavaScript, NodeJS, React and world history**
 
 - 🤝 I'm looking for help with [Gilbert](https://github.com/alanverdugo/gilbert#how-to-contribute)!
 
@@ -15,39 +15,9 @@
 
 - 💬 Ask me about **Linux**, **Python**, or continuous integration with **Travis CI**.
 
-- 📄 Refer to [my resume](https://github.com/alanverdugo/resume/blob/master/cv.pdf) (written in **LaTeX** and built with **CI/CD**!).
+- 📄 Refer to [my resume](https://github.com/alanverdugo/resume/blob/master/cv.pdf) (written in **LaTeX** and built with **GitHub Actions**!).
 
 - 🏅 There is a list of [all the digital badges](https://www.youracclaim.com/users/alan-verdugo/badges) I've earned so far.
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-     alt="bash"
-     width="40"
-     height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-     alt="docker"
-     width="40"
-     height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-     alt="git"
-     width="40"
-     height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
-     alt="jekyll"
-     width="40"
-     height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
-     alt="linux"
-     width="40"
-     height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-     alt="postgresql"
-     width="40"
-     height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
-     alt="python"
-     width="40"
-     height="40"/></p>
 
 <p>&nbsp;
     <img align="center"
